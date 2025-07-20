@@ -14,4 +14,4 @@
 TypeScript · React · Firebase · Tailwind · SwiftUI · Java · Python
 
 ## 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/angela-cheng-0062a5237/)) 
+[LinkedIn](https://www.linkedin.com/in/angela-cheng-0062a5237/)
