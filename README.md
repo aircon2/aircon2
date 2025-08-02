@@ -8,7 +8,8 @@
 - 🔭 Building cool UBC tools with React, Firebase
 - 🌱 Learning AI, LLMs, and backend dev with Spring Boot
 - 🚀 Contributor to [cool-project](https://github.com/friend/cool-project)
-- - 📫 How to reach me: angelacheng369@gmail.com
+- Personal Website: [ac-web](https://ac-web-inky.vercel.app/)
+- 📫 How to reach me: angelacheng369@gmail.com
 
 ## 🛠️ Tech Stack
 TypeScript · React · Firebase · Tailwind · SwiftUI · Java · Python
